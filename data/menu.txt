@@ -1,0 +1,14 @@
+Vesuvio;skinke;57;
+Amerikaner;oksefars;53;
+Cacciatorre;pepperoni,;57;
+Carbona;kødsauce,spaghetti,cocktailpølser;63;
+Dennis;skinke,pepperoni,cocktailpølser;65;
+Bertil;bacon;57;
+Silvia;pepperoni,rød peber,løg,oliven;61;
+Victoria;skinke,ananas,champignon,løg;61;
+Toronfo;skinke,bacon,kebab,chili;61;
+Capricciosa;skinke,champignon;61;
+Hawai;skinke,ananas;61;
+Le Blissola;skinke,rejer;61;
+Venezia;skinke,bacon;61;
+Mafia;pepperoni,bacon,løg;61;
